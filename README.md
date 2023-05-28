@@ -48,11 +48,12 @@ This project is licensed under the MIT License.
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-Acknowledgments
+
+
+
+Feel free to customize and modify this README file to suit your specific project needs but provide a refference to my name like this:
+
 This script was inspired by [insert inspiration here].
 Special thanks to [insert names] for their contributions and support.
-
-
-Feel free to customize and modify this README file to suit your specific project needs.
 
 
